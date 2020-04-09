@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">practical10</string>
+    <string-array name="spinner">
+        <item>None</item>
+        <item>Surat</item>
+        <item>Aanand</item>
+        <item>Nadiad</item>
+    </string-array>
+    <string name="title_activity_homepage">homepage</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="addline12">
+        <item>City</item>
+        <item>Surat</item>
+        <item>Ahmedabad</item>
+        <item>Vadodara</item>
+    </string-array>
+
+    <string-array name="addline22">
+        <item>State</item>
+        <item>Gujarat</item>
+    </string-array>
+</resources>

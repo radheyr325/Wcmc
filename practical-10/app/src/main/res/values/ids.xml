@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView11" type="id"></item>
+    <item name="textView13" type="id"></item>
+    <item name="name" type="id"></item>
+    <item name="textView14" type="id"></item>
+    <item name="phone_number" type="id"></item>
+    <item name="textView15" type="id"></item>
+    <item name="textView16" type="id"></item>
+    <item name="confirm_password" type="id"></item>
+    <item name="textView17" type="id"></item>
+    <item name="spinner" type="id"></item>
+</resources>
