@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">17it097</string>
+
+    <string-array name="spinner">
+        <item>None</item>
+        <item>Fahrenheit</item>
+        <item>Celsius</item>
+    </string-array>
+</resources>
